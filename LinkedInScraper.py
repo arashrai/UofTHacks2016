@@ -89,7 +89,7 @@ client.post(LOGIN_URL, data=login_information)
 
 searchPage = 'https://www.linkedin.com/vsearch/j?keywords=software&locationType=I&countryCode=ca&page_num=1'
 
-page_count = 8
+page_count = 17
 
 while page_count < 41:
 
@@ -133,12 +133,11 @@ while page_count < 41:
         store = getJobDescription(html)
         jobDescription.append(store[0])
         html = html[store[1]:]
-    
-    sleep(randint(4,15))
-    with open('LinkedScraped.txt', 'a', encoding='utf-8') as text_file:
-        for x in range(len(jobTitle)):
-            print("Job Title: ", jobTitle[x], "  $%^& Company Name: ", companyName[x], "  $%^&   Job Location: ", jobLocation[x], "  $%^&   Job Description: ", jobDescription[x], file = text_file)
-            print("Job Title: ", jobTitle[x], "  printed.")
+        with open('LinkedScraped.txt', 'a', encoding='utf-8') as text_file:
+            print("Job Title: ", jobTitle[-1], "  $%^& Company Name: ", companyName[-1], "  $%^&   Job Location: ", jobLocation[-1], "  $%^&   Job Description: ", jobDescription[-1], file = text_file)
+            print("Job Title: ", jobTitle[-1], "  printed.")
+
+    sleep(4,15)
     print("SOMETHING SHOULDVE PRINTED")
     page_count += 1
 
