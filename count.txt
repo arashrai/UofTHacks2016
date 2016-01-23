@@ -1,10 +1,10 @@
-.net: 192
+ .net : 106
 actionscript: 7
  ada : 0
 ado.net: 3
 adobe: 23
 adobe acrobat: 5
-ajax: 723
+ ajax : 16
 algebra: 3
 apache: 44
 apache ant: 1
@@ -16,7 +16,7 @@ apiomat: 0
 arduino: 2
 ascii: 0
 astronomy: 0
-asp: 254
+ asp : 3
 assembly language: 8
 atom: 0
 awk: 1
@@ -38,12 +38,8 @@ business process modeling: 1
  c : 43
 c#: 193
 c++: 209
-calculus: 3
-camera: 17
-catalyst: 6
 characters: 2
 chef: 22
-chemistry: 2
 chmod: 0
 clojure: 9
 cloud: 337
@@ -52,8 +48,7 @@ cocoa: 6
 coldfusion: 3
 colour: 20
 continuous integration: 64
-countries: 190
-css: 183
+ css : 34
 cue: 5
 cvs: 9
 db2: 64
@@ -85,7 +80,6 @@ express: 60
 f#: 0
 fedora: 2
 firebug: 1
-firefox: 4
 firefox: 4
 add-ons: 0
 fitnesse: 2
@@ -122,7 +116,7 @@ high availability: 19
 htaccess: 0
  html : 59
  http : 13
-ios: 146
+ ios : 32
 icons: 0
 illustrator: 11
 intellij idea: 3
@@ -136,7 +130,7 @@ ipv4: 7
 multicast: 3
 ipv6: 11
 is-is: 0
-java: 508
+ java : 198
 java ee: 6
 java persistence api: 0
 javafx: 1
@@ -157,14 +151,13 @@ lisp: 2
 lotus domino: 0
  lua : 0
 lucene: 4
-m: 1106
+m : 1082
 mac: 180
 mac os: 16
 mac os x: 7
 machine learning: 32
 maple: 1
 markdown: 0
-math: 73
 mathematica: 22
 mathml: 0
 mathomatic: 0
@@ -215,7 +208,6 @@ play framework: 0
 postgresql: 22
 powershell: 13
 probability theory: 0
-processing: 117
 prototype: 38
 python: 140
 ppp: 0
@@ -295,7 +287,6 @@ webgl: 0
 webmatrix: 0
 wicket: 2
 wikipedia: 4
-windows: 236
 windows azure: 6
 windows communication foundation: 4
 windows presentation foundation: 0
@@ -304,7 +295,6 @@ wordpress: 4
 ws-bpel: 0
 wireshark display filters: 0
 xhtml: 8
-xml: 106
 xml: 106
  schema : 7
 xpath: 2

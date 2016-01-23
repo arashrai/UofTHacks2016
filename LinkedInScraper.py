@@ -80,16 +80,16 @@ soup = BeautifulSoup(html, "html.parser")
 csrf = soup.find(id="loginCsrfParam-login")['value']
 
 login_information = {
-    'session_key':'blowey@auti.st',
+    'session_key':'fuck@auti.st',
     'session_password':'fuckoff',
     'loginCsrfParam': csrf,
 }
 
 client.post(LOGIN_URL, data=login_information)
 
-searchPage = 'https://www.linkedin.com/vsearch/j?keywords=software&locationType=I&countryCode=ca&page_num=1'
+searchPage = 'https://www.linkedin.com/vsearch/j?keywords=computer+science&distance=50&locationType=I&countryCode=ca&postalCode=M5S+1A1&openFacets=L%2CC&page_num=1'
 
-page_count = 17
+page_count = 1
 
 while page_count < 41:
 
@@ -118,7 +118,7 @@ while page_count < 41:
     jobDescription = []
 
     for x in links:
-        sleep(randint(3,6))
+        sleep(randint(4,8))
         response = client.get(x)
         html = response.text
         store = getJobTitle(html)
@@ -133,11 +133,11 @@ while page_count < 41:
         store = getJobDescription(html)
         jobDescription.append(store[0])
         html = html[store[1]:]
-        with open('LinkedScraped.txt', 'a', encoding='utf-8') as text_file:
+        with open('CompSciSearchPart1.txt', 'a', encoding='utf-8') as text_file:
             print("Job Title: ", jobTitle[-1], "  $%^& Company Name: ", companyName[-1], "  $%^&   Job Location: ", jobLocation[-1], "  $%^&   Job Description: ", jobDescription[-1], file = text_file)
             print("Job Title: ", jobTitle[-1], "  printed.")
 
-    sleep(4,15)
+    sleep(randint(4,15))
     print("SOMETHING SHOULDVE PRINTED")
     page_count += 1
 
