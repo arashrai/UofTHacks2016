@@ -1,4 +1,4 @@
-f = open('personalitywords.txt','r')
+f = open('PersonalityTraitsRaw,txt','r')
 
 lines = f.readlines()
 
@@ -20,7 +20,7 @@ for x in L1:
 
 L2 = list(set(L2))
 
-with open("personalitywords2.txt","a") as text_file:
+with open("PersonalityTraitsFormatted.txt","a") as text_file:
     for x in L2:
         print(x, file = text_file)
 

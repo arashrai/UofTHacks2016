@@ -80,8 +80,8 @@ soup = BeautifulSoup(html, "html.parser")
 csrf = soup.find(id="loginCsrfParam-login")['value']
 
 login_information = {
-    'session_key':'fuck@auti.st',
-    'session_password':'fuckoff',
+    'session_key':'(login email)',
+    'session_password':'(password)',
     'loginCsrfParam': csrf,
 }
 
