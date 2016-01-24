@@ -1,1 +1,146 @@
-.net .net .net .net .net .net .net .net .net .net adobe adobe ajax apache apache apache apache azure azure bash blueprint blueprint bpm c c c c c# c# c# c# c# c# c# c# c# c# c# c# c# c# c# c# c# c# c# c++ c++ c++ c++ c++ c++ c++ c++ c++ c++ c++ c++ c++ c++ c++ c++ c++ c++ c++ c++ chef chef cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud colour colour continuousintegration continuousintegration continuousintegration continuousintegration continuousintegration continuousintegration css css css db2 db2 db2 db2 db2 db2 delphi delphi designpattern designpattern designpattern designpattern designpattern designpattern django django docker dot dtd dtd eclipse eclipse eclipse eclipse eclipse eclipse eclipse eclipse encoding express express express express express express flash flash flash flash flash flash flash flash flash flash flash flash flash flash flash flash flash flash flash flash flash flash flash flash flash flash flash flash ftp git git git git git git git git git git git git git git git git git git git git git git git git git groovy hardware hardware hardware hardware hardware hardware hardware hardware hardware hardware hardware hardware hardware hardware hardware hardware hardware hardware hardware hardware hardware hardware hardware hardware hardware hardware hardware hadoop hadoop hadoop hbase hibernate hibernate hibernate highavailability html html html html html http ios ios ios illustrator ivr ipv6 java java java java java java java java java java java java java java java java java java java javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript jboss jboss jdbc jquery jquery jquery jquery jquery jquery jquery jquery jquery jsp jsp junit junit junit linux linux linux linux linux linux linux linux linux linux linux linux linux linux linux linux linux linux linux linux linux linux linux linux linux linux logic logic logic logic m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m m mac mac mac mac mac mac mac mac mac mac mac mac mac mac mac mac mac mac macos machinelearning machinelearning machinelearning mathematica mathematica matlab maven maven mfc mysql mysql mysql mysql mysql mysql mysql mysql node.js node.js node.js objective-c opensource opensource opensource opensource opensource oracle oracle oracle oracle oracle oracle oracle oracle oracle osx perforce perl perl perl perl perl perl perl perl photoshop php php php php php php physics postgresql postgresql powershell prototype prototype prototype python python python python python python python python python python python python python python qt qt r restful restful restful restful ruby ruby ruby ruby ruby rubyonrails scalability scalability scalability scalability scalability scalability selenium selenium selenium selenium shellscript shellscript shellscript shellscript springframework spring spring sql sql sql sql sql sql sql sql sql sql sql sql sql sql sql sql sql sql sql sql sql sql sql sql sql sql sql sql sql sql sql sql sql sql sql sql sqlserver sqlserver sqlserver sqlserver sqlserver sqlserver sqlserver sqlserver statistics statistics svn svn tcp tcp tcp tcp tcp tcp tcp twitter twitter twitter twitter twitter uml uml uml ubuntu unix unix unix unix unix unix unix unix unix unix unix unix vb vb vb virtualization virtualization virtualization virtualization virtualization virtualization visualbasic vmware vmware vmware vmware xml xml xml xml xml xml xml xml xml xml xsl xsl xsl xslt 
+software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software software 
+development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development development 
+technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical technical 
+design design design design design design design design design design design design design design design design design design design design design design design design design design design design design design design design design design design design design design design design design design design design design design design design design design design design design design design design design design design design design design 
+communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication communication 
+data data data data data data data data data data data data data data data data data data data data data data data data data data data data data data data data data data data data data data data data data data data data data data data data data data 
+applications applications applications applications applications applications applications applications applications applications applications applications applications applications applications applications applications applications applications applications applications applications applications applications applications applications applications applications applications applications applications applications applications applications applications applications applications applications applications applications applications applications applications applications applications applications applications applications applications 
+science science science science science science science science science science science science science science science science science science science science science science science science science science science science science science science science science science science science science science science science science science science science science science 
+computer science computer science computer science computer science computer science computer science computer science computer science computer science computer science computer science computer science computer science computer science computer science computer science computer science computer science computer science computer science computer science computer science computer science computer science computer science computer science computer science computer science computer science computer science computer science computer science computer science computer science computer science computer science computer science computer science computer science computer science computer science 
+web web web web web web web web web web web web web web web web web web web web web web web web web web web web web web web web web web web web web web web web 
+testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing testing 
+code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code code 
+analysis analysis analysis analysis analysis analysis analysis analysis analysis analysis analysis analysis analysis analysis analysis analysis analysis analysis analysis analysis analysis analysis analysis analysis analysis analysis analysis analysis analysis analysis analysis analysis 
+java java java java java java java java java java java java java java java java java java java java java java java java java java java java java java java java 
+mobile mobile mobile mobile mobile mobile mobile mobile mobile mobile mobile mobile mobile mobile mobile mobile mobile mobile mobile mobile mobile mobile mobile mobile mobile mobile mobile mobile 
+cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud cloud 
+architecture architecture architecture architecture architecture architecture architecture architecture architecture architecture architecture architecture architecture architecture architecture architecture architecture architecture architecture architecture architecture architecture architecture architecture architecture 
+hardware hardware hardware hardware hardware hardware hardware hardware hardware hardware hardware hardware hardware hardware hardware hardware hardware hardware hardware hardware hardware hardware hardware hardware hardware 
+documentation documentation documentation documentation documentation documentation documentation documentation documentation documentation documentation documentation documentation documentation documentation documentation documentation documentation documentation documentation documentation documentation documentation documentation documentation 
+planning planning planning planning planning planning planning planning planning planning planning planning planning planning planning planning planning planning planning planning planning planning planning 
+languages languages languages languages languages languages languages languages languages languages languages languages languages languages languages languages languages languages languages languages languages languages languages 
+sql sql sql sql sql sql sql sql sql sql sql sql sql sql sql sql sql sql sql sql sql sql 
+implementation implementation implementation implementation implementation implementation implementation implementation implementation implementation implementation implementation implementation implementation implementation implementation implementation implementation implementation implementation implementation 
+internet internet internet internet internet internet internet internet internet internet internet internet internet internet internet internet internet internet internet internet 
+javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript javascript 
+problem solving problem solving problem solving problem solving problem solving problem solving problem solving problem solving problem solving problem solving problem solving problem solving problem solving problem solving problem solving problem solving problem solving problem solving problem solving 
+personal personal personal personal personal personal personal personal personal personal personal personal personal personal personal personal personal personal 
+windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows windows 
+analytical analytical analytical analytical analytical analytical analytical analytical analytical analytical analytical analytical analytical analytical analytical analytical analytical 
+reporting reporting reporting reporting reporting reporting reporting reporting reporting reporting reporting reporting reporting reporting reporting reporting reporting 
+linux linux linux linux linux linux linux linux linux linux linux linux linux linux linux linux 
+c# c# c# c# c# c# c# c# c# c# c# c# c# c# 
+net net net net net net net net net net net net net net 
+best practices best practices best practices best practices best practices best practices best practices best practices best practices best practices best practices best practices best practices 
+troubleshooting troubleshooting troubleshooting troubleshooting troubleshooting troubleshooting troubleshooting troubleshooting troubleshooting troubleshooting troubleshooting troubleshooting troubleshooting 
+c++ c++ c++ c++ c++ c++ c++ c++ c++ c++ c++ c++ c++ 
+collaboration collaboration collaboration collaboration collaboration collaboration collaboration collaboration collaboration collaboration collaboration collaboration 
+organizational organizational organizational organizational organizational organizational organizational organizational organizational organizational organizational organizational 
+databases databases databases databases databases databases databases databases databases databases databases databases 
+python python python python python python python python python python python python 
+analytics analytics analytics analytics analytics analytics analytics analytics analytics analytics analytics analytics 
+html html html html html html html html html html html 
+application development application development application development application development application development application development application development application development application development application development application development 
+coding coding coding coding coding coding coding coding coding coding 
+processing processing processing processing processing processing processing processing processing processing 
+c c c c c c c c c 
+xml xml xml xml xml xml xml xml xml 
+programming languages programming languages programming languages programming languages programming languages programming languages programming languages programming languages programming languages 
+css css css css css css css css css 
+components components components components components components components components components 
+customer service customer service customer service customer service customer service customer service customer service customer service customer service 
+jquery jquery jquery jquery jquery jquery jquery 
+oracle oracle oracle oracle oracle oracle oracle 
+debugging debugging debugging debugging debugging debugging debugging 
+web services web services web services web services web services web services web services 
+sql server sql server sql server sql server sql server sql server sql server 
+operating systems operating systems operating systems operating systems operating systems operating systems operating systems 
+mysql mysql mysql mysql mysql mysql mysql 
+r r r r r r 
+teamwork teamwork teamwork teamwork teamwork teamwork 
+git git git git git git 
+file file file file file file 
+scalability scalability scalability scalability scalability 
+virtualization virtualization virtualization virtualization virtualization 
+rest rest rest rest rest 
+logic logic logic logic logic 
+ios ios ios ios ios 
+algorithms algorithms algorithms algorithms algorithms 
+perl perl perl perl perl 
+web applications web applications web applications web applications web applications 
+continuous integration continuous integration continuous integration continuous integration continuous integration 
+information systems information systems information systems information systems information systems 
+ruby ruby ruby ruby ruby 
+ajax ajax ajax ajax ajax 
+eclipse eclipse eclipse eclipse eclipse 
+unix unix unix unix 
+nodejs nodejs nodejs nodejs 
+php php php php 
+selenium selenium selenium selenium 
+emerging technologies emerging technologies emerging technologies emerging technologies 
+apache apache apache apache 
+vmware vmware vmware 
+mac mac mac 
+twitter twitter twitter 
+uml uml uml 
+nosql nosql nosql 
+development tools development tools development tools 
+data structures data structures data structures 
+google google google 
+db2 db2 db2 
+machine learning machine learning machine learning 
+scala scala scala 
+hadoop hadoop hadoop 
+junit junit 
+http http 
+facebook facebook 
+assembly assembly 
+maven maven 
+hibernate hibernate 
+system design system design 
+spanning spanning 
+adobe adobe 
+multitasking multitasking 
+math math 
+azure azure 
+jboss jboss 
+chef chef 
+postgresql postgresql 
+multimedia multimedia 
+relational databases 
+prototype 
+objectivec 
+mongodb 
+statistics 
+high availability 
+svn 
+screen 
+data analytics 
+jsp 
+system architecture 
+perforce 
+groovy 
+encoding 
+vb 
+system testing 
+ruby on rails 
+os x 
+matlab 
+workstations 
+system development 
+quality control 
+analyze data 
+qt 
+powershell 
+photoshop 
+mfc 
+ipv6 
+hbase 
+ftp 
+ubuntu 
+spring framework 
+optimizing 
+express 
+dom 
+bpm 
+blueprint 

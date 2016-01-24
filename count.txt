@@ -1,305 +1,411 @@
- .net : 106
-actionscript: 7
- ada : 0
-ado.net: 3
-adobe: 23
-adobe acrobat: 5
- ajax : 16
-algebra: 3
-apache: 44
-apache ant: 1
-apache camel: 0
-apache cassandra: 0
-apache solr: 0
-apiomat: 0
- apt : 0
-arduino: 2
-ascii: 0
-astronomy: 0
- asp : 3
-assembly language: 8
-atom: 0
-awk: 1
-azure: 24
-bash: 13
-blender: 0
-bazaar: 0
-bdb: 0
-bgp: 8
-berkeley db: 0
-birt: 1
-blazeds: 0
-blogger: 0
-blueprint: 21
-bpel: 3
-bpm: 14
-bpml: 2
-business process modeling: 1
- c : 43
-c#: 193
-c++: 209
-characters: 2
-chef: 22
-chmod: 0
-clojure: 9
-cloud: 337
-cmake: 0
-cocoa: 6
-coldfusion: 3
-colour: 20
-continuous integration: 64
- css : 34
-cue: 5
-cvs: 9
-db2: 64
-db4o: 0
-debian: 4
-delphi: 23
-design pattern: 62
-django: 20
-docker: 16
-doctrine: 4
-doctypes: 0
- dom : 4
-ddd: 3
-domain-driven design: 1
-dot: 10
-drupal: 5
-drush: 0
-dtd: 23
-eclipse: 88
-emmet: 0
- ed : 0
-ejb: 5
-emacs: 0
-emoticon: 0
-encoding: 14
-erlang: 3
-eigrp: 0
-express: 60
-f#: 0
-fedora: 2
-firebug: 1
-firefox: 4
-add-ons: 0
-fitnesse: 2
-flash: 283
-flash catalyst: 0
- flex : 8
-fonts: 1
-fortran: 2
-freeware: 0
-ftp: 19
-first hop redundancy: 0
-gdb: 3
-geometry: 4
-gift: 1
-gimp: 0
-git: 253
-glassfish: 1
-gmail: 2
-gof: 1
-google chrome: 0
-google maps: 1
-google app engine: 0
-grails: 6
-griffon: 0
-groovy: 17
-guitar: 0
-gwt: 3
-hardware: 271
-hadoop: 32
-haskell: 1
-hbase: 16
-hibernate: 35
-high availability: 19
-htaccess: 0
- html : 59
- http : 13
- ios : 32
-icons: 0
-illustrator: 11
-intellij idea: 3
-internet explorer: 2
- irc : 0
-ivr: 14
-ieee 802.11: 3
-ieee 802.1x: 0
-ipsec: 6
-ipv4: 7
-multicast: 3
-ipv6: 11
-is-is: 0
- java : 198
-java ee: 6
-java persistence api: 0
-javafx: 1
-javascript: 216
-javaserver faces: 0
-jboss: 23
-jdbc: 10
-jetty: 4
-jquery: 97
-jsf: 6
-jsp: 29
-junit: 31
-latex: 0
-latex-suite: 0
-linux: 260
-lisp: 2
- logic : 47
-lotus domino: 0
- lua : 0
-lucene: 4
-m : 1082
-mac: 180
-mac os: 16
-mac os x: 7
-machine learning: 32
-maple: 1
-markdown: 0
-mathematica: 22
-mathml: 0
-mathomatic: 0
-matlab: 13
-maven: 28
-maxima: 0
-mfc: 17
-microformats: 0
-microsoft excel: 7
-microsoft project: 8
-microsoft vs: 0
-mime: 3
-mod_include: 0
-mod_perl: 0
-mod_rewrite: 0
-mongo shell: 0
-mootools: 0
-msp: 9
-mule: 2
-music: 2
-mvvm: 7
-mysql: 85
-mediawiki: 1
-netbeans: 3
-nmap: 0
-node.js: 37
-numbers: 9
-objective-c: 19
-ocaml: 0
-open source: 57
-opencl: 3
-opencv: 0
-openmp: 0
-opensearch: 0
-openssh: 0
-openvz: 0
-oracle: 98
-org-mode: 0
-os x: 15
-ospf: 6
-perforce: 14
-perl: 85
-photoshop: 16
-php: 61
-php frameworks: 7
-physics: 11
-play framework: 0
-postgresql: 22
-powershell: 13
-probability theory: 0
-prototype: 38
-python: 140
-ppp: 0
-common ports: 0
-phpstorm: 0
-qt: 22
-quicksilver: 0
- r : 14
-red hat: 7
-regular expressions: 2
-restful: 45
-richfaces: 0
-rpm: 5
-rss: 0
-ruby: 58
-ruby on rails: 14
- rip : 0
-sandcastle: 0
- scala : 0
-scalability: 60
- seam : 0
- sed : 0
-selenium: 42
-sendmail: 0
-servicemix: 1
-shell script: 42
-silverlight: 8
-social bookmarks: 0
-solaris: 8
-spring framework: 15
- spring : 23
- roo : 0
-sql: 363
-sql server: 89
-sqlite: 4
- ssi : 0
- ssl : 3
-statistics: 20
-svg: 0
-svn: 24
-sybase: 6
-symfony: 5
-symfony2: 1
-spanning tree: 1
-scapy: 0
-tapestry: 0
-tcl/tk: 6
-tcp: 77
- tex : 0
-thunderbird: 0
-tlds: 0
-tls: 8
-trigonometry: 1
-ttcn-3: 0
-twitter: 51
-tcpdump: 0
-uml: 38
-ubuntu: 10
-unicode: 3
-unix: 125
-utf: 1
-underscorejs: 0
-vaadin: 1
-vb: 35
-vba: 5
-vbscript: 0
-veritas cluster: 0
- vi : 0
-vim: 3
-vim-latex: 0
-virtualization: 60
-visual basic: 10
-vmware: 46
-voicexml: 1
-vvvv: 0
-webgl: 0
-webmatrix: 0
-wicket: 2
-wikipedia: 4
-windows azure: 6
-windows communication foundation: 4
-windows presentation foundation: 0
-windows powershell: 0
-wordpress: 4
-ws-bpel: 0
-wireshark display filters: 0
-xhtml: 8
-xml: 106
- schema : 7
-xpath: 2
-xsl: 36
-xslt: 10
-xss: 1
-zen coding: 0
-emmet: 0
+software  1069
+development  856
+technical  651
+design  628
+communication  603
+data  505
+applications  499
+science  462
+computer science  416
+web  409
+testing  372
+code  361
+analysis  326
+java  325
+mobile  282
+cloud  257
+architecture  257
+hardware  255
+documentation  254
+planning  238
+languages  238
+sql  227
+implementation  218
+internet  202
+javascript  196
+problem solving  194
+personal  185
+windows  181
+analytical  173
+reporting  172
+linux  169
+c#  149
+net  143
+best practices  136
+troubleshooting  133
+c++  132
+collaboration  129
+organizational  127
+databases  127
+python  126
+analytics  125
+html  117
+application development  112
+coding  109
+processing  108
+c  97
+xml  95
+programming languages  95
+css  94
+components  94
+customer service  91
+jquery  79
+oracle  78
+debugging  78
+web services  74
+sql server  74
+operating systems  74
+mysql  71
+r  68
+teamwork  65
+git  65
+file  64
+scalability  56
+virtualization  55
+rest  55
+logic  55
+ios  55
+algorithms  55
+perl  54
+web applications  53
+continuous integration  53
+information systems  52
+ruby  51
+ajax  51
+eclipse  50
+unix  44
+nodejs  44
+php  42
+selenium  41
+emerging technologies  41
+apache  41
+vmware  39
+mac  39
+twitter  35
+uml  34
+nosql  34
+development tools  33
+data structures  33
+google  32
+db2  32
+machine learning  31
+scala  30
+hadoop  30
+junit  28
+http  28
+facebook  27
+assembly  26
+maven  25
+hibernate  25
+system design  24
+spanning  24
+adobe  23
+multitasking  22
+math  22
+azure  22
+jboss  21
+chef  21
+postgresql  20
+multimedia  20
+relational databases  19
+prototype  19
+objectivec  19
+mongodb  19
+statistics  18
+high availability  18
+svn  17
+screen  17
+data analytics  17
+jsp  16
+system architecture  14
+perforce  14
+groovy  14
+encoding  14
+vb  13
+system testing  13
+ruby on rails  13
+os x  13
+matlab  13
+workstations  12
+system development  12
+quality control  12
+analyze data  12
+qt  11
+powershell  11
+photoshop  11
+mfc  11
+ipv6  11
+hbase  11
+ftp  11
+ubuntu  10
+spring framework  10
+optimizing  10
+express  10
+dom  10
+bpm  10
+blueprint  10
+ssl  9
+numbers  9
+flex  9
+clojure  9
+browsers  9
+asp  9
+xslt  8
+xhtml  8
+solaris  8
+selfmotivation  8
+revision control  8
+physics  8
+flash  8
+camera  8
+bash  8
+application development tools  8
+tcp  7
+red hat  7
+php frameworks  7
+microsoft excel  7
+mac os x  7
+windows azure  6
+tcltk  6
+microsoft project  6
+illustrator  6
+grails  6
+catalyst  6
+bgp  6
+actionscript  6
+xsl  5
+vba  5
+silverlight  5
+rpm  5
+ospf  5
+jdbc  5
+java ee  5
+drupal  5
+database management systems  5
+cvs  5
+windows communication foundation  4
+wikipedia  4
+unicode  4
+symfony  4
+sqlite  4
+smile  4
+msp  4
+lucene  4
+geometry  4
+design pattern  4
+debian  4
+dbms  4
+cocoa  4
+adobe acrobat  4
+yahoo  3
+wordpress  3
+visual basic  3
+tree  3
+system programming  3
+sybase  3
+structured query language  3
+mime  3
+macos  3
+jsf  3
+ipsec  3
+intellij idea  3
+gwt  3
+feed  3
+erlang  3
+ddd  3
+calculus  3
+bpel  3
+algebra  3
+adonet  3
+xpath  2
+xml schema  2
+vi  2
+regular expressions  2
+programming methodologies  2
+opencl  2
+lisp  2
+internet explorer  2
+industry systems  2
+gdb  2
+fortran  2
+fitnesse  2
+firefox  2
+ejb  2
+doctrine  2
+coldfusion  2
+characters  2
+bpml  2
+arduino  2
+application programming interfaces  2
+application development methodologies  2
+xss  1
+wicket  1
+web platforms  1
+voicexml  1
+vaadin  1
+underscorejs  1
+trigonometry  1
+tls  1
+symfony2  1
+shell script  1
+servicemix  1
+music  1
+mule  1
+mediawiki  1
+mathematica  1
+jetty  1
+isis  1
+ieee 80211  1
+haskell  1
+google maps  1
+gof  1
+glassfish  1
+fonts  1
+firebug  1
+fedora  1
+ed  1
+domaindriven design  1
+computer platforms  1
+chemistry  1
+apt  1
+application development techniques  1
+apache ant  1
+ada  1
+zen coding  0
+wsbpel  0
+world of warcraft  0
+wireshark display filters  0
+windows presentation foundation  0
+windows powershell  0
+windowing systems  0
+webmatrix  0
+webgl  0
+vvvv  0
+vimlatex  0
+vim  0
+veritas cluster  0
+vbscript  0
+utf  0
+use logical reasoning  0
+ttcn3  0
+tlds  0
+thunderbird  0
+third generation languages  0
+tex  0
+tcpdump  0
+tapestry  0
+symbolic programming  0
+svg  0
+ssi  0
+spring roo  0
+social bookmarks  0
+sendmail  0
+sed  0
+seam  0
+scapy  0
+sandcastle  0
+rss  0
+rip  0
+richfaces  0
+relational programming  0
+quicksilver  0
+probability theory  0
+ppp  0
+post object programming  0
+play framework  0
+phpstorm  0
+parallel processing  0
+os programming  0
+orgmode  0
+openvz  0
+openssh  0
+opensearch  0
+openmp  0
+opencv  0
+open source media framework  0
+ocaml  0
+nmap  0
+netbeans  0
+mvvm  0
+mootools  0
+mongo shell  0
+mod_rewrite  0
+mod_perl  0
+mod_include  0
+microsoft vs  0
+microformats  0
+maxima  0
+mathomatic  0
+mathml  0
+markdown  0
+maple  0
+lua  0
+lotus domino  0
+latexsuite  0
+latex  0
+javaserver faces  0
+javafx  0
+java persistence api  0
+ivr  0
+irc  0
+ipv4 multicast  0
+ios7 design  0
+interface with vendors  0
+interface with clients  0
+ieee 8021x  0
+icons  0
+html conversion tools  0
+html authoring tools  0
+htaccess  0
+guitar  0
+griffon  0
+google chrome  0
+google app engine  0
+gmail  0
+gimp  0
+gift  0
+freeware  0
+fourth generation languages  0
+flash catalyst  0
+first hop redundancy  0
+firefox addons  0
+f#  0
+emoticon  0
+emmet  0
+embedded hardware  0
+emacs  0
+eigrp  0
+dtd  0
+drush  0
+dot language  0
+doctypes  0
+django docker  0
+delphi  0
+db4o  0
+database techniques  0
+cue  0
+constraintbased programming  0
+concurrent programming  0
+common ports  0
+cmake  0
+chmod  0
+case tools  0
+business process modeling  0
+blogger  0
+blender  0
+blazeds  0
+birt  0
+berkeley db  0
+bdb  0
+bazaar  0
+awk  0
+atom  0
+astronomy  0
+aspect oriented programming  0
+ascii  0
+ars based programming  0
+aros  0
+apiomat  0
+apache solr  0
+apache cassandra  0
+apache camel  0
