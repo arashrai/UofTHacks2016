@@ -11,6 +11,22 @@
 (function () {
   'use strict';
 
+  function changeButton() 
+  {
+    console.log("Here");
+    var filename = document.getElementById("file");
+    document.getElementById("test").innerHTML = "Got file Name: " + filename;
+    document.getElementById("choose").innerHTML = filename;
+  }
+
+  function HandleBrowseClick()
+  {
+    var fileinput = document.getElementById("fileName");
+    fileinput.click();
+    var textinput = document.getElementById("filename");
+    textinput.value = fileinput.value;
+  }
+
   function emulatedIEMajorVersion() {
     var groups = /MSIE ([0-9.]+)/.exec(window.navigator.userAgent)
     if (groups === null) {
