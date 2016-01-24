@@ -20,17 +20,17 @@ def strip_tags(html):
     s.feed(html)
     return s.get_data()
 
-f = open('prilikResume.txt',"r")
+f = open('DavidResume.txt',"r")
 
 lines = f.readlines()
 
 
-prilikTokens = lines[0].split(' ')
+resumeTokens = lines[0].split(' ')
 
 L1 = []
 
-for x in range(len(prilikTokens)):
-    a = prilikTokens[x].replace(',','')
+for x in range(len(resumeTokens)):
+    a = resumeTokens[x].replace(',','')
     b = a.replace('.','')
     c = b.replace('-','')
     d = c.replace('/','')
@@ -42,8 +42,8 @@ for x in range(len(prilikTokens)):
 resume = ' '.join(x for x in L1)
 resume = " "+resume+" "
 
-j = open('moretools2.txt',"r")
-pword = open('personalitywords2.txt', "r")
+j = open('TechnicalTermsFormatted.txt',"r")
+pword = open('PersonalityTraitsFormatted.txt', "r")
 
 lines = j.readlines()
 lines2 = pword.readlines()
@@ -68,7 +68,7 @@ for x in L7:
     if x in resume:
         L8.append(x)
 
-k = open('datanohtml.txt',"r", encoding = 'utf-8')
+k = open('parsed_data.txt',"r", encoding = 'utf-8')
 
 lines = k.readlines()
 
